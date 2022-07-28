@@ -1,1 +1,1 @@
-# Basic_Todo_List using Javascript
+# Basic_todo_list using Javascript
