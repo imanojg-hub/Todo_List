@@ -78,7 +78,7 @@ input[id='todo-input']:focus {
   border: none;
   border-radius: 3px;
   background-color: rgb(175, 126, 235);
-  color: rgb(255, 255, 255, 0.9);
+  color: rgb(255, 255, 255);
   font-size: 1rem;
   transition: 0.3s ease-in-out;
 }
